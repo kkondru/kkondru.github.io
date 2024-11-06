@@ -1,5 +1,5 @@
 
-![My Profile Pic](/Banner.png)
+![My Profile Pic](/Banner.jpg)
 
 # Kiran Kumar Kondru
 
