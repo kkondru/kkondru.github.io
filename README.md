@@ -65,4 +65,4 @@ Central University of Tamil Nadu, Thiruvarur, TN, India 610005
 - IEEE Member
 - ACM Member
 
-[Download Full CV](link-to-your-cv.pdf)
+[Download Full CV](Kiran_Kondru_Academic_CV (1).pdf)
