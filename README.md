@@ -7,7 +7,7 @@ PhD Scholar in Computer Science
 Department of Computer Science  
 Central University of Tamil Nadu, Thiruvarur, TN, India 610005
 
-[LinkedIn](https://www.linkedin.com/in/kirankumarkondru/) | [Google Scholar]([https://twitter.com/KiranKondru2](https://scholar.google.com/citations?user=gaM_T9YAAAAJ&hl=en)) | [ORCiD](https://orcid.org/0000-0001-9600-8944)
+[LinkedIn](https://www.linkedin.com/in/kirankumarkondru/) | [Google Scholar](https://scholar.google.com/citations?user=gaM_T9YAAAAJ&hl=en) | [ORCiD](https://orcid.org/0000-0001-9600-8944)
 
 ## Education
 
