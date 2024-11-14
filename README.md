@@ -3,7 +3,7 @@
 
 # Kiran Kumar Kondru
 
-PhD Scholar in Computer Science  
+PhD Research Scholar
 Department of Computer Science  
 Central University of Tamil Nadu, Thiruvarur, TN, India 610005
 
