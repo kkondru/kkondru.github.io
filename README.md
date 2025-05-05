@@ -65,4 +65,3 @@ Central University of Tamil Nadu, Thiruvarur, TN, India 610005
 - IEEE Member
 - ACM Member
 
-[Download Full CV](KiranCV.pdf)
