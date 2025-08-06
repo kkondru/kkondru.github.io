@@ -40,7 +40,7 @@ Guntur, AP
 
 2. Evanjalin, A. B., Saranya, R., & Kondru, K. K. (2021). "Illustration of a Parallel and Discrete Event Simulator using Scala." 2021 First International Conference on Advances in Computing and Future Communication Technologies (ICACFCT). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9837380)
 
-3. Kumar, K. K., & Saranya, R. (2019). ["The Evolution of Blockchain - From Chain of Blocks to Direct Acyclic Graphs."](./The Evolution of Blockchain - From Chain of Blocks to Direct Acyclic Graph.pdf) National Conference on Blockchain and Smart Contract Technologies (BSCIT 2019).
+3. Kumar, K. K., & Saranya, R. (2019). ["The Evolution of Blockchain - From Chain of Blocks to Direct Acyclic Graphs."](The Evolution of Blockchain - From Chain of Blocks to Direct Acyclic Graph.pdf) National Conference on Blockchain and Smart Contract Technologies (BSCIT 2019).
 
 ## Awards and Fellowships
 
