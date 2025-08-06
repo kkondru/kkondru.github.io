@@ -3,15 +3,16 @@
 
 # Kiran Kumar Kondru
 
-PhD Research Scholar
-Department of Computer Science  
-Central University of Tamil Nadu, Thiruvarur, TN, India 610005
-
+Assistant Professor
+Department of Computer Science and Engineering
+[Vasireddy Venkatadri International Technological University](https://www.vvitguntur.com/)
+Guntur, AP
 [LinkedIn](https://www.linkedin.com/in/kirankumarkondru/) | [Google Scholar](https://scholar.google.com/citations?user=gaM_T9YAAAAJ&hl=en) | [ORCiD](https://orcid.org/0000-0001-9600-8944)
+
 
 ## Education
 
-- **PhD in Computer Science** (Present)  
+- **PhD in Computer Science**
   Central University of Tamil Nadu  
   Advisor: Dr. R Saranya
 
