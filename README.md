@@ -3,10 +3,10 @@
 
 # Kiran Kumar Kondru
 
-Assistant Professor
-Department of Computer Science and Engineering
-[Vasireddy Venkatadri International Technological University](https://www.vvitguntur.com/)
-Guntur, AP
+Assistant Professor  
+Department of Computer Science and Engineering  
+[Vasireddy Venkatadri International Technological University](https://www.vvitguntur.com/)  
+Guntur, AP  
 [LinkedIn](https://www.linkedin.com/in/kirankumarkondru/) | [Google Scholar](https://scholar.google.com/citations?user=gaM_T9YAAAAJ&hl=en) | [ORCiD](https://orcid.org/0000-0001-9600-8944)
 
 
