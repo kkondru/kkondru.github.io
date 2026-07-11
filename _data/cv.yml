@@ -2,11 +2,16 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
-      institution: Central University of Tamil Nadu, Thiruvarur, TN
+      institution: "<a href=\"https://cutn.ac.in/\">Central University of Tamil Nadu</a>, Thiruvarur, TN"
       year: 2017 - 2024
       description:
         - "Advisor: Dr R. Saranya"
         - "Thesis: Re-Engineering the Raft Distributed Consensus Algorithm with enhanced Fault-tolerance and improved Scalability"
+      linkitems:
+        - link: https://library.cutn.ac.in/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=44306
+          linkname: Thesis Record
+        - link: http://hdl.handle.net/10603/626122
+          linkname: Shodhganga
     - title: Master of Computer Applications
       institution: Hindu College P.G. Courses, Guntur, AP (affiliated to Acharya Nagarjuna University)
       year: 2003 - 2006
@@ -18,7 +23,7 @@
   type: time_table
   contents:
     - title: Assistant Professor
-      institution: Department of Computer Science and Engineering, Vasireddy Venkatadri International Technological University, Guntur, AP
+      institution: "Department of Computer Science and Engineering, <a href=\"https://www.vvitu.ac.in/\">Vasireddy Venkatadri International Technological University</a>, Guntur, AP"
       year: Present
     - title: Software Engineer II
       institution: Progress Software Development Ltd, Hyderabad
