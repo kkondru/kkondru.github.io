@@ -1,0 +1,9 @@
+github_users:
+  - kkondru
+
+repo_description_lines_max: 2
+
+github_repos:
+  - kkondru/dataForRaft
+  - kkondru/dataForRaftAvailability
+  - kkondru/xel-white-paper

@@ -1,0 +1,64 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: Central University of Tamil Nadu
+      year: 2017 - Present
+      description:
+        - "Advisor: Dr. R Saranya"
+        - Research focus on distributed consensus algorithms and blockchain technology.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Department of Computer Science and Engineering, Vasireddy Venkatadri International Technological University, Guntur, AP
+      year: Present
+    - title: PhD Scholar
+      institution: Central University of Tamil Nadu
+      year: 2017 - Present
+    - title: Software Engineer 2
+      institution: Progress Software Development Ltd, Hyderabad
+      year: Apr 2009 - Dec 2009
+    - title: Member, Technical Staff, Development
+      institution: Commvault Systems (INDIA) Pvt Ltd, Hyderabad
+      year: Mar 2007 - Apr 2009
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2015
+      items:
+        - NET Junior Research Fellow, University Grants Commission
+    - year: 2014
+      items:
+        - NET for Assistant Professor, University Grants Commission
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Research Areas
+      items:
+        - Distributed Systems
+        - Blockchain Technology
+        - Consensus Algorithms
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python
+        - Scala
+    - title: Other
+      items:
+        - Distributed Systems
+        - Blockchain Technology
+        - Consensus Algorithms
+        - Teaching and Mentoring
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - IEEE Member
+    - ACM Member
