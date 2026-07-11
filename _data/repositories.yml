@@ -7,3 +7,11 @@ github_repos:
   - kkondru/dataForRaft
   - kkondru/dataForRaftAvailability
   - kkondru/xel-white-paper
+
+repo_descriptions:
+  - repo: kkondru/dataForRaft
+    description: Data generated for Raft simulations
+  - repo: kkondru/dataForRaftAvailability
+    description: Raw data generated from DES simulation for research on Raft availability
+  - repo: kkondru/xel-white-paper
+    description: ""

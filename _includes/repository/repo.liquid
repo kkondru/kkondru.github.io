@@ -5,23 +5,19 @@
   {% assign show_owner = true %}
 {% endif %}
 
-{% if site.data.repositories.repo_description_lines_max %}
-  {% assign max_lines = site.data.repositories.repo_description_lines_max %}
-{% else %}
-  {% assign max_lines = 2 %}
-{% endif %}
+{% assign repo_description = '' %}
+{% for entry in site.data.repositories.repo_descriptions %}
+  {% if entry.repo == include.repository %}
+    {% assign repo_description = entry.description %}
+  {% endif %}
+{% endfor %}
 
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}">
-    <img
-      class="repo-img-light w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
-    <img
-      class="repo-img-dark w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
+  <a href="https://github.com/{{ include.repository }}" class="btn btn-outline-secondary d-block h-100" role="button">
+    <i class="fa-solid fa-code-branch"></i>
+    <strong>{% if show_owner %}{{ repo_url[0] }}/{% endif %}{{ repo_url[1] }}</strong>
+    {% if repo_description != '' %}
+      <div class="small text-muted mt-1">{{ repo_description }}</div>
+    {% endif %}
   </a>
 </div>
