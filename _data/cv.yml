@@ -60,21 +60,21 @@
 - title: Journal Publications
   type: list
   contents:
-    - "Kondru, Kiran Kumar and Saranya Rajiakodi. \"RaftOptima: An Optimised Raft with enhanced Fault Tolerance, and increased Scalability with low latency.\" <i>IEEE Access</i> (2024). DOI: 10.1109/ACCESS.2024.3435978"
-    - "Kondru, Kiran Kumar and R. Saranya. \"Exploring the Limits of Raft's Fault Tolerance: Insights from Simulated Network Partitions.\" <i>International Journal of Intelligent Systems and Applications in Engineering</i>, vol. 12, no. 22S, pp. 838&ndash;850, 2024."
-    - "Kondru, Kiran Kumar and R. Saranya. \"Directed acyclic graph-based distributed ledgers&mdash;an evolutionary perspective.\" <i>Int J Eng Adv Technol (IJEAT)</i> 9.1 (2019). DOI: 10.35940/ijeat.A1970.109119"
+    - "Kondru, Kiran Kumar, and Saranya Rajiakodi. \"RaftOptima: An Optimised Raft with enhanced Fault Tolerance, and increased Scalability with low latency.\" <i>IEEE Access</i> (2024). <a href=\"https://doi.org/10.1109/ACCESS.2024.3435978\">DOI: 10.1109/ACCESS.2024.3435978</a> &middot; <a href=\"https://ieeexplore.ieee.org/document/10614451\">IEEE Xplore</a>"
+    - "Kondru, Kiran Kumar, and R. Saranya. \"Exploring the Limits of Raft's Fault Tolerance: Insights from Simulated Network Partitions.\" <i>International Journal of Intelligent Systems and Applications in Engineering</i>, vol. 12, no. 22S, pp. 838&ndash;850, 2024. <a href=\"https://www.ijisae.org/index.php/IJISAE/article/view/6564\">Full text</a>"
+    - "Kondru, Kiran Kumar, and R. Saranya. \"Directed acyclic graph-based distributed ledgers &mdash; an evolutionary perspective.\" <i>International Journal of Engineering and Advanced Technology (IJEAT)</i>, vol. 9, no. 1, 2019. <a href=\"https://doi.org/10.35940/ijeat.A1970.109119\">DOI: 10.35940/ijeat.A1970.109119</a> &middot; <a href=\"https://www.ijeat.org/portfolio-item/a1970109119/\">Full text</a>"
 
 - title: Book Chapters
   type: list
   contents:
-    - "Kondru, Kiran Kumar, R. Saranya and Annamma Chacko. \"A Review of distributed supercomputing platforms using Blockchain.\" <i>Advances in Distributed Computing and Machine Learning: Proceedings of ICADCML 2020</i> (2021): 123&ndash;133. DOI: 10.1007/978-981-15-4218-3_13"
+    - "Kondru, Kiran Kumar, R. Saranya, and Annamma Chacko. \"A Review of Distributed Supercomputing Platforms using Blockchain.\" <i>Advances in Distributed Computing and Machine Learning: Proceedings of ICADCML 2020</i> (2021): 123&ndash;133. <a href=\"https://doi.org/10.1007/978-981-15-4218-3_13\">DOI: 10.1007/978-981-15-4218-3_13</a>"
 
 - title: Conference Papers
   type: list
   contents:
-    - "Kondru, Kiran Kumar and Saranya Rajiakodi. \"Improving scalability of permissioned blockchains by making Raft Orderer to understand the underlying network topology.\" <i>Proceedings of IACIDS 2023</i>, Lavasa, Pune, India. DOI: 10.4108/eai.23-11-2023.2343202"
-    - "Evanjalin, A. Beulah, R. Saranya, and Kiran Kumar Kondru. \"Illustration of a Parallel and Discrete Event Simulator using Scala.\" <i>2021 First International Conference on Advances in Computing and Future Communication Technologies (ICACFCT)</i>. IEEE, 2021. DOI: 10.1109/ICACFCT53978.2021.9837380"
-    - "Kondru, Kiran Kumar and Dr R Saranya. \"The Evolution of Blockchain &ndash; From Chain of Blocks to Direct Acyclic Graphs.\" <i>National Conference on Blockchain and Smart Contract Technologies (BSCIT 2019)</i>, Nov 7&ndash;10, 2019, pp. 18&ndash;23."
+    - "Kondru, Kiran Kumar, and Saranya Rajiakodi. \"Improving scalability of permissioned blockchains by making Raft Orderer to understand the underlying network topology.\" <i>Proceedings of the 1st International Conference on Artificial Intelligence, Communication, IoT, Data Engineering and Security (IACIDS 2023)</i>, 23&ndash;25 November 2023, Lavasa, Pune, India. 2024. <a href=\"https://doi.org/10.4108/eai.23-11-2023.2343202\">DOI: 10.4108/eai.23-11-2023.2343202</a> &middot; <a href=\"https://eudl.eu/doi/10.4108/eai.23-11-2023.2343202\">EUDL</a>"
+    - "Evanjalin, A. Beulah, R. Saranya, and Kiran Kumar Kondru. \"Illustration of a Parallel and Discrete Event Simulator using Scala.\" <i>2021 First International Conference on Advances in Computing and Future Communication Technologies (ICACFCT)</i>, IEEE, 2021. <a href=\"https://doi.org/10.1109/ICACFCT53978.2021.9837380\">DOI: 10.1109/ICACFCT53978.2021.9837380</a> &middot; <a href=\"https://ieeexplore.ieee.org/document/9837380\">IEEE Xplore</a>"
+    - "Kondru, Kiran Kumar, and R. Saranya. \"The Evolution of Blockchain &mdash; From Chain of Blocks to Direct Acyclic Graphs.\" <i>National Conference on Blockchain and Smart Contract Technologies (BSCIT 2019)</i>, Dr. K. Singh, Ed., Nov 7&ndash;10, 2019, pp. 18&ndash;23."
 
 - title: Honors and Awards
   type: time_table
