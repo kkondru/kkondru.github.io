@@ -1,12 +1,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
-      institution: Central University of Tamil Nadu
-      year: 2017 - Present
+    - title: Ph.D. in Computer Science
+      institution: Central University of Tamil Nadu, Thiruvarur, TN
+      year: 2017 - 2024
       description:
-        - "Advisor: Dr. R Saranya"
-        - Research focus on distributed consensus algorithms and blockchain technology.
+        - "Advisor: Dr R. Saranya"
+        - "Thesis: Re-Engineering the Raft Distributed Consensus Algorithm with enhanced Fault-tolerance and improved Scalability"
+    - title: Master of Computer Applications
+      institution: Hindu College P.G. Courses, Guntur, AP (affiliated to Acharya Nagarjuna University)
+      year: 2003 - 2006
+    - title: Bachelor of Computer Applications
+      institution: Jagarlamudi Kuppuswamy Choudary College, Guntur, AP (affiliated to Acharya Nagarjuna University)
+      year: 2000 - 2003
 
 - title: Experience
   type: time_table
@@ -14,51 +20,106 @@
     - title: Assistant Professor
       institution: Department of Computer Science and Engineering, Vasireddy Venkatadri International Technological University, Guntur, AP
       year: Present
-    - title: PhD Scholar
-      institution: Central University of Tamil Nadu
-      year: 2017 - Present
-    - title: Software Engineer 2
+    - title: Software Engineer II
       institution: Progress Software Development Ltd, Hyderabad
       year: Apr 2009 - Dec 2009
-    - title: Member, Technical Staff, Development
+      description:
+        - Contributed to Progress® OpenEdge® Architect, an Eclipse-based IDE for services-oriented business applications.
+        - Designed and developed Eclipse plugins supporting Advanced Business Language (ABL) and enhanced existing IDE features.
+        - Built prototypes including an SWT/Swing bridge for the Apama Event Modeller, and implemented test cases for core modules and OpenEdge's Open Client.
+    - title: Member, Technical Staff
       institution: Commvault Systems (INDIA) Pvt Ltd, Hyderabad
       year: Mar 2007 - Apr 2009
+      description:
+        - Designed and implemented GUIs for new features in the Simpana Suite, a unified data protection solution, using Java Swing.
+        - Established client-server communication protocols and led implementation of an XML-based protocol.
+        - Built wizard-based GUI prototypes and mentored new team members, delivering solutions for clients including Fidelity, Royal Dutch Shell, and the US Air Force.
+    - title: Civil Services Preparation & Academic Transition
+      institution: Independent study
+      year: 2010 - 2015
+      description:
+        - Rigorously prepared for Civil Services examinations, sharpening analytical skills, time management, and research methodology.
+        - Culminated in clearing the UGC NET with JRF in 2015, marking the transition to a career in academia and research.
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Scalable Raft Implementation with Proxy Leaders
+      institution: "Advisor: Dr R Saranya"
+      year: 2017 - 2024
+      description:
+        - Developed RaftOptima, an enhanced Raft algorithm addressing scalability issues in large clusters by introducing proxy leaders to delegate broadcasting and acknowledgment tasks, reducing latency by 60% in clusters of up to 25 nodes.
+        - Constructed a key-value data store and network simulator to validate the system, demonstrating significant throughput improvements while preserving core safety properties.
+    - title: Development of Enhanced Raft Leadership Algorithm
+      institution: "Advisor: Dr R Saranya"
+      year: 2017 - 2024
+      description:
+        - Developed a Java-based enhanced Raft consensus algorithm resolving symmetric and transitive reachability problems that triggered frequent leader elections.
+        - Built a key-value store for replication testing and a custom Discrete Event Simulator to benchmark performance under network partitions, and formally verified leader election safety using TLA+.
+
+- title: Journal Publications
+  type: list
+  contents:
+    - "Kondru, Kiran Kumar and Saranya Rajiakodi. \"RaftOptima: An Optimised Raft with enhanced Fault Tolerance, and increased Scalability with low latency.\" <i>IEEE Access</i> (2024). DOI: 10.1109/ACCESS.2024.3435978"
+    - "Kondru, Kiran Kumar and R. Saranya. \"Exploring the Limits of Raft's Fault Tolerance: Insights from Simulated Network Partitions.\" <i>International Journal of Intelligent Systems and Applications in Engineering</i>, vol. 12, no. 22S, pp. 838&ndash;850, 2024."
+    - "Kondru, Kiran Kumar and R. Saranya. \"Directed acyclic graph-based distributed ledgers&mdash;an evolutionary perspective.\" <i>Int J Eng Adv Technol (IJEAT)</i> 9.1 (2019). DOI: 10.35940/ijeat.A1970.109119"
+
+- title: Book Chapters
+  type: list
+  contents:
+    - "Kondru, Kiran Kumar, R. Saranya and Annamma Chacko. \"A Review of distributed supercomputing platforms using Blockchain.\" <i>Advances in Distributed Computing and Machine Learning: Proceedings of ICADCML 2020</i> (2021): 123&ndash;133. DOI: 10.1007/978-981-15-4218-3_13"
+
+- title: Conference Papers
+  type: list
+  contents:
+    - "Kondru, Kiran Kumar and Saranya Rajiakodi. \"Improving scalability of permissioned blockchains by making Raft Orderer to understand the underlying network topology.\" <i>Proceedings of IACIDS 2023</i>, Lavasa, Pune, India. DOI: 10.4108/eai.23-11-2023.2343202"
+    - "Evanjalin, A. Beulah, R. Saranya, and Kiran Kumar Kondru. \"Illustration of a Parallel and Discrete Event Simulator using Scala.\" <i>2021 First International Conference on Advances in Computing and Future Communication Technologies (ICACFCT)</i>. IEEE, 2021. DOI: 10.1109/ICACFCT53978.2021.9837380"
+    - "Kondru, Kiran Kumar and Dr R Saranya. \"The Evolution of Blockchain &ndash; From Chain of Blocks to Direct Acyclic Graphs.\" <i>National Conference on Blockchain and Smart Contract Technologies (BSCIT 2019)</i>, Nov 7&ndash;10, 2019, pp. 18&ndash;23."
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2015
       items:
-        - NET Junior Research Fellow, University Grants Commission
+        - NET Junior Research Fellow (JRF), University Grants Commission (UGC)
     - year: 2014
       items:
-        - NET for Assistant Professor, University Grants Commission
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Research Areas
+        - NET for Assistant Professor, University Grants Commission (UGC)
+    - year: 2013
       items:
-        - Distributed Systems
-        - Blockchain Technology
-        - Consensus Algorithms
+        - APSET for Assistant Professor, Government of Andhra Pradesh
 
 - title: Skills
   type: nested_list
   contents:
-    - title: Programming Languages
+    - title: Research
       items:
+        - Advanced Research Methodologies
+        - Data Analysis and Interpretation
+        - Academic Writing and Publication
+        - Project Management
+        - Critical Thinking and Problem-Solving
+    - title: Teaching
+      items:
+        - Curriculum Development
+        - Lecture Preparation and Delivery
+        - Student Mentoring and Advising
+        - Classroom Management
+    - title: Programming
+      items:
+        - C
+        - Java
         - Python
-        - Scala
-    - title: Other
-      items:
-        - Distributed Systems
-        - Blockchain Technology
-        - Consensus Algorithms
-        - Teaching and Mentoring
 
 - title: Professional Memberships
   type: list
   contents:
     - IEEE Member
     - ACM Member
+
+- title: References
+  type: list
+  contents:
+    - "Dr R. Saranya &mdash; Supervisor and Assistant Professor, Department of Computer Science, Central University of Tamil Nadu"
+    - "Dr A. Martin &mdash; Member, Research Advisory Committee and Assistant Professor, Department of Computer Science, Central University of Tamil Nadu"
+    - "Dr. Chandra Mouli P.V.S.S.R &mdash; Head of the Department, Professor and Dean, Department of Computer Science, Central University of Tamil Nadu"

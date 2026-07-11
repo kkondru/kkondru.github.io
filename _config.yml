@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Kiran Kumar
+first_name: Dr. Kiran Kumar
 middle_name:
 last_name: Kondru
 email:
@@ -88,7 +88,7 @@ lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: kirankumarkondru # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
+medium_username: musaafir # your Medium username
 orcid_id: 0000-0001-9600-8944 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -167,6 +167,8 @@ disqus_shortname: # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: Medium
+    rss_url: https://medium.com/feed/@musaafir
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -623,19 +625,3 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
